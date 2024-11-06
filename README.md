@@ -2,7 +2,7 @@
 
 - 🔭 Estagios em desenvolvimento de software 
 - 🌱 Estudando Front-end 
-- 😄 Pronome: Ele/dele
+- 😄 Apaixonado por tecnologia
 
 
 <div style="display: inline_block"><br>
