@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="CSharp"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </p>
 
 ---
@@ -20,8 +21,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMTheus&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTheus&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IMTheus&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -49,4 +50,3 @@
 ---
 
 ⭐️ Obrigado por visitar meu perfil!
-
