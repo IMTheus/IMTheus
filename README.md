@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋! My name is Matheus Francisco</h1>
-<h3 align="center">I'm a Developer from Brazil</h3>
-
----
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTheus&theme=radical" alt="Matheus GitHub Stats"/>
-  <br/>
-</p>
+<h1 align="center">Hi 👋! I'm Matheus Francisco</h1>
+<h3 align="center">💻 I'm a Developer from Brazil 🇧🇷</h3>
 
 ---
 
@@ -23,6 +17,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IMTheus&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMTheus&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
 ### 📫 Connect with me
 
 <p align="center">
@@ -36,13 +39,14 @@
 
 ---
 
-### ⚡ Fun facts
+### ⚡ Fun Facts
 
-- 🔭 Atualmente em busca de uma vaga de estágio ou junior  
+- 🔭 Atualmente em busca de uma vaga de estágio ou júnior  
 - 🌱 Estudando Java  
 - 🧠 Sempre aprendendo e criando novos projetos para meu portfólio  
-- 😄 Gosto de tecnologia, leitura e games  
+- 🎮 Gosto de tecnologia, leitura e games  
 
 ---
 
 ⭐️ Obrigado por visitar meu perfil!
+
