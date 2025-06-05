@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋! My name is Matheus Francisco</h1>
 <h3 align="center">I'm a Developer from Brazil</h3>
 
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMTheus&theme=radical" alt="Matheus GitHub Stats"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMTheus&theme=radical" alt="Most Used Languages"/>
-</p>
 
 ---
 
